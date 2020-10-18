@@ -24,7 +24,7 @@ function ColourSelect({ changeColour, getColourName }) {
     },
     {
       name: 'Unknown Colour',
-      hex: 'eece26',
+      hex: '7722de',
     },
     {
       name: 'original',
